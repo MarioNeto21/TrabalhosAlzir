@@ -1,0 +1,24 @@
+.divGeral {
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  
+}
+
+.divLinks {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.java {
+    padding-bottom: 5px;
+}
+
